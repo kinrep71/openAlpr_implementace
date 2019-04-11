@@ -1,8 +1,8 @@
 import sys
-#from openalpr import Alpr
+from openalpr import Alpr
 import os
 import io
-#from PIL import Image
+from PIL import Image
 from array import array
 import time
 
